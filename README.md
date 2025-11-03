@@ -16,5 +16,5 @@ HTML | CSS | JavaScript | React | Node.js
 [LinkedIn](https://linkedin.com/in/username) | [Portfolio](https://your-portfolio.com)
 
 ## 📊 GitHub Stats
-![Sayeda's GitHub stats](https://github-readme-stats.vercel.app/api?username=lima123&show_icons=true&theme=radical)
+![Sayeda's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauedashow_icons=true&theme=radical)
 vvk-spuk-mmz
